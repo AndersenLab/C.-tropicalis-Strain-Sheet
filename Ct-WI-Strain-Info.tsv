@@ -481,16 +481,14 @@ Caenorhabditis tropicalis	18S	QG2727		NA			QG	9.1598	-79.8399	Forest	Barro Color
 Caenorhabditis tropicalis	18S	QG2733		NA			QG	9.1598	-79.8399	Forest	Barro Colorado Island, Panama	Bait	Cup Lutz Eq3, bait, Gustavia superba slurry					Selfed		L. Noble	L. Noble	2015-03-27			
 Caenorhabditis tropicalis	18S	QG2755		NA			QG	9.1598	-79.8399	Forest	Barro Colorado Island, Panama	Bait	Cup Lutz Eq3, bait, Gustavia superba slurry					Selfed		L. Noble	L. Noble	2015-03-27			
 Caenorhabditis tropicalis	NA	QG2773		NA			QG	9.1576	-79.83393333	Forest	Barro Colorado Island, Panama	Bait	Agar bait A11-3					Selfed		L. Noble	L. Noble	2015-03-27			
-Caenorhabditis tropicalis	ITS2	ECA1394		S-0084			ECA	21.346701	-157.820899	Forest	Hawaii	Soil	Found on moss on rock near water	24.6	78.9	90.6				L. Stinson	N. Roberto	2019-10-20		Dirty version.	
-Caenorhabditis tropicalis	ITS2	ECA1395		S-0084			ECA	21.346701	-157.820899	Forest	Hawaii	Soil	Found on moss on rock near water	24.6	78.9	90.6				L. Stinson	N. Roberto	2019-10-20		Clean version.	
-Caenorhabditis tropicalis	ITS2	ECA1396		S-0089			ECA	21.314479	-157.75966	Forest	Hawaii	Rotting_nut/pod/seed/fruit	Fruit	22.3	80.1	82.1				L. Stinson	N. Roberto	2019-10-20		Dirty version.	
-Caenorhabditis tropicalis	ITS2	ECA1397		S-0089			ECA	21.314479	-157.75966	Forest	Hawaii	Rotting_nut/pod/seed/fruit	Fruit	22.3	80.1	82.1				L. Stinson	N. Roberto	2019-10-20		Clean version.	
-Caenorhabditis tropicalis	ITS2	ECA1400		S-0183			ECA	21.342699	-157.821547	Forest	Hawaii	Rotting_nut/pod/seed/fruit	Fruit	24	78.9	80.1				L. Stinson	N. Roberto	2019-10-20		Dirty version.	
-Caenorhabditis tropicalis	ITS2	ECA1401		S-0183			ECA	21.342699	-157.821547	Forest	Hawaii	Rotting_nut/pod/seed/fruit	Fruit	24	78.9	80.1				L. Stinson	N. Roberto	2019-10-20		Clean version.	
-Caenorhabditis tropicalis	ITS2	ECA1402		S-0184			ECA	21.342699	-157.821547	Forest	Hawaii	Rotting_nut/pod/seed/fruit	Fruit	24	78.9	80.1				L. Stinson	N. Roberto	2019-10-20		Dirty version.	
-Caenorhabditis tropicalis	ITS2	ECA1403		S-0184			ECA	21.342699	-157.821547	Forest	Hawaii	Rotting_nut/pod/seed/fruit	Fruit	24	78.9	80.1				L. Stinson	N. Roberto	2019-10-20		Clean version.	
-Caenorhabditis tropicalis	ITS2	ECA1404		S-0185			ECA	21.342699	-157.821547	Forest	Hawaii	Rotting_nut/pod/seed/fruit	Fruit	24	78.9	80.1				L. Stinson	N. Roberto	2019-10-20		Dirty version.	
-Caenorhabditis tropicalis	ITS2	ECA1405		S-0185			ECA	21.342699	-157.821547	Forest	Hawaii	Rotting_nut/pod/seed/fruit	Fruit	24	78.9	80.1				L. Stinson	N. Roberto	2019-10-20		Clean version.	
+Caenorhabditis tropicalis	ITS2	ECA1394		S-0084			ECA	21.346701	-157.820899	Forest	Hawaii	Soil	Found on moss on rock near water	24.6	26.1	90.6				L. Stinson	N. Roberto	2019-10-20		Dirty version.	
+Caenorhabditis tropicalis	ITS2	ECA1395		S-0084			ECA	21.346701	-157.820899	Forest	Hawaii	Soil	Found on moss on rock near water	24.6	26.1	90.6				L. Stinson	N. Roberto	2019-10-20		Clean version.	
+Caenorhabditis tropicalis	ITS2	ECA1400		S-0183			ECA	21.342699	-157.821547	Forest	Hawaii	Rotting_nut/pod/seed/fruit	Fruit	24	26.1	80.1				L. Stinson	N. Roberto	2019-10-20		Dirty version.	
+Caenorhabditis tropicalis	ITS2	ECA1401		S-0183			ECA	21.342699	-157.821547	Forest	Hawaii	Rotting_nut/pod/seed/fruit	Fruit	24	26.1	80.1				L. Stinson	N. Roberto	2019-10-20		Clean version.	
+Caenorhabditis tropicalis	ITS2	ECA1402		S-0184			ECA	21.342699	-157.821547	Forest	Hawaii	Rotting_nut/pod/seed/fruit	Fruit	24	26.1	80.1				L. Stinson	N. Roberto	2019-10-20		Dirty version.	
+Caenorhabditis tropicalis	ITS2	ECA1403		S-0184			ECA	21.342699	-157.821547	Forest	Hawaii	Rotting_nut/pod/seed/fruit	Fruit	24	26.1	80.1				L. Stinson	N. Roberto	2019-10-20		Clean version.	
+Caenorhabditis tropicalis	ITS2	ECA1404		S-0185			ECA	21.342699	-157.821547	Forest	Hawaii	Rotting_nut/pod/seed/fruit	Fruit	24	26.1	80.1				L. Stinson	N. Roberto	2019-10-20		Dirty version.	
+Caenorhabditis tropicalis	ITS2	ECA1405		S-0185			ECA	21.342699	-157.821547	Forest	Hawaii	Rotting_nut/pod/seed/fruit	Fruit	24	26.1	80.1				L. Stinson	N. Roberto	2019-10-20		Clean version.	
 Caenorhabditis tropicalis	mating	EG6180		NA			XZ	18.3	-65.8	Forest	El Yunque, Puerto Rico	Rotting_nut/pod/seed/fruit	unidentified rotting wild berry from the southern section of El Yunque							M. Ailion	M. Ailion	2010-03-14			
 Caenorhabditis tropicalis	NA	QG2651		NA			QG	9.153933333	-79.83166667	Forest	Barro Colorado Island, Panama	Bait	Agar bait A3-5					Selfed		M. Bernstein	M. Bernstein	2015-03-27			
 Caenorhabditis tropicalis	NA	QG800		MB38A			QG	9.158057	-79.834221	Forest	Barbour Trail	Rotting_flower	Substrate sample MB38, Gustavia superba, Barbour Trail					Selfed	NA	M. Bernstein	M. Bernstein	2012-04-25		rotting Gustavia flower	
